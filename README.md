@@ -11,7 +11,7 @@ Burpsuite->Project->Project Options-> Load project options
 ## 第二步 配置配置文件
 Burpsuite->Proxy->Options->Match and Replace
 ### SSRF自动检测
-在方框中打上对号并将“https://SSRFByHttpFile.sjdjsjdjjsdjjsd.ceye.io”替换为你自己的dnslog地址
+在方框中打上对号并将“https://SSRFByHttpFile.sjdjsjdjjsdjjsd.ceye.io” 替换为你自己的dnslog地址
 ![](https://raw.githubusercontent.com/ba1ma0/SDLC_Vuln_Auto_Find/main/2.png)
 ### XSS
 在你需要自动检测的点打上对号
