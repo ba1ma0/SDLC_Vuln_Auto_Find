@@ -18,8 +18,8 @@ Burpsuite->Proxy->Options->Match and Replace
 ![](https://raw.githubusercontent.com/ba1ma0/SDLC_Vuln_Auto_Find/main/3.png)
 
 上面只是举了两个例子,实际规则中有很多检测漏洞,你可以根据自己的实际情况选择是否进行自动检测
-## 第三步 自定义扩展插件
-根据文章中的介绍,你可以自己扩展规则处理自己的场景
+## 第三步 自定义扩展规则
+根据文章中的介绍,你可以根据我已经写的规则来扩展规则,以覆盖更多的场景!后期我会根据情况来更新规则库!
 
 # 有疑问🤔️联系作者
 vx: 5ed0c42e63c9c2145990351ccaec4da5
